@@ -5,10 +5,3 @@ Exploiting the Cloundy API ☁️ (cxapi or xeno api) with a modern interface, K
 
 # Used
 WPF (used for Designer), C# Coding, and used .NET Framework
-
-# Use the OFFICIAL Script 🚀!
-This script is from the same creator
-```lua
-local scriptContent = game:HttpGet("https://raw.githubusercontent.com/AndresDev859674/Quick-Hub/main/execute.lua")
-loadstring(scriptContent)()
-```
